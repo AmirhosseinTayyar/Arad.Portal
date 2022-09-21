@@ -14,26 +14,3 @@ Bootstrap 5.1 and its classes is used In UI of project  as long as it satisfied 
 This documentation has two main Part First Part (Site Admin Guide) is for a site admin who is not a developer and supposed to use this application for creating a website and don’t suppose to extend and develop the application source code.
 
 Second Part (Developer Guide) is for developer who supposed to extend and develop source ode of the application, this part should also be read more than First part by developer.
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-#Site Admin User Guide
-##Getting Started
-##Admin Management
-###User Management
-###Product Management
-###Content Management
-###Store Settings
-###Modules
-###Designing Dynamic Pages
-#Developer Guide
-
-
-
-
-
-
